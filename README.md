@@ -1,4 +1,4 @@
-# AI-based Face Mask Detection 
+# AI-Based Face Mask Detection 
 <p>This application uses machine learning to detect the presence of face masks in an image or in real time through video stream. MaskDetect was built with Python and Tensorflow. </p>
 
 # Detecting Face Masks In Images
@@ -8,4 +8,4 @@
 # Detecting Face Masks In Real Time Through Video Stream
 MaskDetect can also accept a video stream as input to detect the presence of face masks in real time.
 <br/>
-![Alt text](https://github.com/simonwangcode/MaskDetect/blob/master/MaskDetect%20Video%20Stream.gif)
+![MaskDetect via video stream](https://github.com/simonwangcode/MaskDetect/blob/master/MaskDetect%20Video%20Stream.gif)
