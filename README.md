@@ -14,6 +14,6 @@
 </p>
 
 ## Detecting Face Masks In Real Time Through Video Stream
-MaskDetect can also accept a video stream as input to detect the presence of face masks in real time.
+MaskDetect can also accept video streams as input to detect the presence of face masks in real time.
 <br/><br/>
 ![](https://github.com/simonwangcode/MaskDetect/blob/master/MaskDetect%20Video%20Stream.gif)
