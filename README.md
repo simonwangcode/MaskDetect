@@ -2,7 +2,7 @@
 <p>MaskDetect uses machine learning to detect the presence of face masks in an image or in real time through video stream. This application was built with Python and TensorFlow. </p>
 
 ## Detecting Face Masks In Images
-<p>This machine learning model was fit to a training set of only 14 images taken by my webcam. Despite the limited training set, it is still able to generalize quite well to images of different dimensions and other people.</p>
+<p>This machine learning model was fit to a training set of only 14 images (of me) taken by my webcam. Despite the limited training set, it is still able to generalize quite well to images of different dimensions and other people.</p>
 <br/>
 <p style="float:left">
 <img src="https://i.imgur.com/c091uI5.png/" style="height: 250px;">  
